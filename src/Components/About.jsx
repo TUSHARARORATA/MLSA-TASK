@@ -24,7 +24,7 @@ const imageAltText = "Software Developer background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm Tushar Arora - International Collegiate Programming Contest Asia West Regionalist , Full Stack MERN Developer , Competitive Programmer , Microsoft Learn Student Ambassador and Google Developer Student Club'23 Lead "
+  "I'm Tushar Arora - International Collegiate Programming Contest (ICPC) Asia West Regionalist , Full Stack MERN Developer , Competitive Programmer , Microsoft Learn Student Ambassador and Google Developer Student Club'23 Lead "
 
 /**
  * List of some of skills or technologies you work on, are learning,
