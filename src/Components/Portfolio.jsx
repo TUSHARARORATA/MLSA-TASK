@@ -47,7 +47,7 @@ const projectList = [
     title: "Research Paper: Graph Theory Approach for Load Balancing",
     description:
       "UGC (HBRP Publication)",
-      l: "https://zenodo.org/records/7844979#.ZFy9aXZBzIU",
+      url: "https://zenodo.org/records/7844979#.ZFy9aXZBzIU",
   },
   {
     title: "Cash Flow Minimizer",
