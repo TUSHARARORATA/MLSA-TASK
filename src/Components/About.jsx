@@ -31,7 +31,7 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web developmer",
+  "Web Developer",
   "Competitive Programmer",
   "Researcher",
   "Data Structure and Algorithms ",
