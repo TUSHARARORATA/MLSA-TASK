@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/sd2.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Software Developer";
 
 /**
  * Project list
@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Color Detection for Color-Blind People",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaborated with a team to analyze and visualize data for actionable insights . Developed a color detection system using Python,
+      OpenCV, and Pandas. Gained hands-on experience in data preprocessing, machine learning, and data-driven decision-making.
+      - Improved the user interface for intuitive interaction and implemented audio feedback for visually impaired users, enabling
+      real-time color",
+    url: "https://github.com/TUSHARARORATA/Color_detection?tab=readme-ov-file#color_detection",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Leetcode Solutions",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "My Leetcode Solutions.",
+    url: "https://github.com/TUSHARARORATA/My_Leetcode_Solutions",
   },
   {
-    title: "My Resume Site",
+    title: "Research Paper: Graph Theory Approach for Load Balancing",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "UGC (HBRP Publication)
+      - Published in the Journal of Sensor Research and Technologies. Proposed a novel approach to load balancing in Wireless
+      Sensor Networks using graph theory.Utilizes graph theory for optimizing energy-efficient data collection in sensor networks.
+      - Tech Stack: It leverages mathematical modeling, adjacency matrices, and centrality measures. Improvements: The
+      research enhances network connectivity and adaptability through dynamic topology adjustments. Enhancement
+      Percentage: Achieves a significant boost in network performance compared to static topology..",
+    url: "https://zenodo.org/records/7844979#.ZFy9aXZBzIU",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Cash Flow Minimizer",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "- Developed a Cash Flow Minimizer System to optimize cash flow among multiple banks using algorithmic problem-solving skills
+      Improvement: Compared to traditional methods, it significantly reduces transaction complexity among multiple banks, leading
+      to minimized cash flow and improved financial efficiency.
+      - Percentage of Enhancements: The system demonstrates a remarkable reduction in transaction complexity, with up to a 20%
+      decrease in the number of transactions required for cash flow optimization.",
+    url: "https://github.com/TUSHARARORATA/cash-flow-minimizer",
   },
 ];
 
