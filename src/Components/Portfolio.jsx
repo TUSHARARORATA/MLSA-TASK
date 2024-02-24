@@ -38,10 +38,12 @@ const projectList = [
     url: "https://github.com/TUSHARARORATA/Color_detection?tab=readme-ov-file#color_detection",
   },
   {
-    title: "My Leetcode Solutions",
+    title: "My Resume and My and Leetcode Solutions ",
     description:
-      "My Leetcode Solutions.",
-    url: "https://github.com/TUSHARARORATA/My_Leetcode_Solutions",
+      "My Resume and My and Leetcode Solutions",
+      url: "https://drive.google.com/file/d/1hwbhboduVJdDHdZokvHJHiw3tf1pnsFW/view?usp=drive_link",
+      url: "https://github.com/TUSHARARORATA/My_Leetcode_Solutions",
+    
   },
   {
     title: "Research Paper: Graph Theory Approach for Load Balancing",

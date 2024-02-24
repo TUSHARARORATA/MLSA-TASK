@@ -26,7 +26,7 @@ import "./styles.css";
 const siteProps = {
   name: "Tushar Arora",
   title: "Web Developer & Content Creator",
-  email: "Tushar.Arora@studentambassadors.com",
+  email: "tushararora.cs.25@gmail.com",
   gitHub: "TUSHARARORATA",
   instagram: "tushararora961",
   linkedIn: "tushar-arora-48b7b8228/",
