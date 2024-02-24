@@ -33,10 +33,8 @@ const projectList = [
   {
     title: "Color Detection for Color-Blind People",
     description:
-      "Collaborated with a team to analyze and visualize data for actionable insights . Developed a color detection system using Python,
-      OpenCV, and Pandas. Gained hands-on experience in data preprocessing, machine learning, and data-driven decision-making.
-      - Improved the user interface for intuitive interaction and implemented audio feedback for visually impaired users, enabling
-      real-time color",
+      "Collaborated with a team to analyze and visualize data for actionable insights . Developed a color detection system using Pythonn ",
+      
     url: "https://github.com/TUSHARARORATA/Color_detection?tab=readme-ov-file#color_detection",
   },
   {
@@ -48,22 +46,14 @@ const projectList = [
   {
     title: "Research Paper: Graph Theory Approach for Load Balancing",
     description:
-      "UGC (HBRP Publication)
-      - Published in the Journal of Sensor Research and Technologies. Proposed a novel approach to load balancing in Wireless
-      Sensor Networks using graph theory.Utilizes graph theory for optimizing energy-efficient data collection in sensor networks.
-      - Tech Stack: It leverages mathematical modeling, adjacency matrices, and centrality measures. Improvements: The
-      research enhances network connectivity and adaptability through dynamic topology adjustments. Enhancement
-      Percentage: Achieves a significant boost in network performance compared to static topology..",
-    url: "https://zenodo.org/records/7844979#.ZFy9aXZBzIU",
+      "UGC (HBRP Publication)",
+      l: "https://zenodo.org/records/7844979#.ZFy9aXZBzIU",
   },
   {
     title: "Cash Flow Minimizer",
     description:
-      "- Developed a Cash Flow Minimizer System to optimize cash flow among multiple banks using algorithmic problem-solving skills
-      Improvement: Compared to traditional methods, it significantly reduces transaction complexity among multiple banks, leading
-      to minimized cash flow and improved financial efficiency.
-      - Percentage of Enhancements: The system demonstrates a remarkable reduction in transaction complexity, with up to a 20%
-      decrease in the number of transactions required for cash flow optimization.",
+      "- Developed a Cash Flow Minimizer System to optimize cash flow among multiple banks using algorithmic problem-solving skills",
+      
     url: "https://github.com/TUSHARARORATA/cash-flow-minimizer",
   },
 ];
