@@ -29,7 +29,7 @@ const siteProps = {
   email: "Tushar.Arora@studentambassadors.com",
   gitHub: "TUSHARARORATA",
   instagram: "tushararora961",
-  linkedIn: "https://www.linkedin.com/in/tushar-arora-48b7b8228/",
+  linkedIn: "tushar-arora-48b7b8228/",
   medium: "",
   twitter: "TusharA29964215",
   youTube: "",
