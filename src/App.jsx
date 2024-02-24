@@ -27,11 +27,11 @@ const siteProps = {
   name: "Tushar Arora",
   title: "Web Developer & Content Creator",
   email: "Tushar.Arora@studentambassadors.com",
-  gitHub: "TUSHARARORATA",
-  instagram: "Tushararora961",
-  linkedIn: "Tushar Arora",
+  gitHub: "",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "TusharA29964215",
+  twitter: "",
   youTube: "",
 };
 
