@@ -33,12 +33,12 @@ const projectList = [
   {
     title: "My Resume ",
     description:
-      "My Resume",
+      "Experienced professional with a proven track record of driving successful project outcomes through strategic planning and efficient execution.",
       url: "https://drive.google.com/file/d/1hwbhboduVJdDHdZokvHJHiw3tf1pnsFW/view?usp=drive_link",
     
   },
   {
-    
+
     title: "Color Detection for Color-Blind People",
     description:
       "Collaborated with a team to analyze and visualize data for actionable insights . Developed a color detection system using Pythonn ",
