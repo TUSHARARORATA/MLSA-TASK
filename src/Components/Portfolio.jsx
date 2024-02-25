@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "My Resume ",
     description:
-      "My Resume and My and Leetcode Solutions",
+      "My Resume",
       url: "https://drive.google.com/file/d/1hwbhboduVJdDHdZokvHJHiw3tf1pnsFW/view?usp=drive_link",
     
   },
