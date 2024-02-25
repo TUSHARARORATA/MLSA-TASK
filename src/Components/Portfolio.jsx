@@ -31,18 +31,18 @@ const imageAltText = "Software Developer";
  */
 const projectList = [
   {
+    title: "My Resume ",
+    description:
+      "My Resume and My and Leetcode Solutions",
+      url: "https://drive.google.com/file/d/1hwbhboduVJdDHdZokvHJHiw3tf1pnsFW/view?usp=drive_link",
+    
+  },
+  {
     title: "Color Detection for Color-Blind People",
     description:
       "Collaborated with a team to analyze and visualize data for actionable insights . Developed a color detection system using Pythonn ",
       
     url: "https://github.com/TUSHARARORATA/Color_detection?tab=readme-ov-file#color_detection",
-  },
-  {
-    title: "My Resume and My and Leetcode Solutions ",
-    description:
-      "My Resume and My and Leetcode Solutions",
-      url: "https://drive.google.com/file/d/1hwbhboduVJdDHdZokvHJHiw3tf1pnsFW/view?usp=drive_link",
-      url: "https://github.com/TUSHARARORATA/My_Leetcode_Solutions",
     
   },
   {
