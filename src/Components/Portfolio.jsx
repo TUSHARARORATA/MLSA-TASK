@@ -38,6 +38,7 @@ const projectList = [
     
   },
   {
+    
     title: "Color Detection for Color-Blind People",
     description:
       "Collaborated with a team to analyze and visualize data for actionable insights . Developed a color detection system using Pythonn ",
